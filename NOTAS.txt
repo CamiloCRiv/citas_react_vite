@@ -1,1 +1,4 @@
 Link del proyecto desplegado por netlify: https://lighthearted-kitsune-fba857.netlify.app/
+
+
+link por deploy con git por medio de netlify: https://jazzy-boba-9d8a2b.netlify.app/
